@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B2B39EFE-E146-8694-9474-ED27F1BFC2DF}</ProjectGuid>
+    <ProjectGuid>{4CDAAD0B-1E9A-2380-66AC-66054263851B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.VisualStudio.Editor</AssemblyName>
@@ -743,11 +743,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{000F68A8-B9E1-794B-9027-F30DA18BB8F0}</Project>
+      <Project>{68C5AEA9-7815-858F-6C22-6B224EB54347}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{1FFB9960-F142-B0E1-3D8E-49DBE642F378}</Project>
+      <Project>{210276AF-5D46-B13C-F586-0F0513F55DEE}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>
